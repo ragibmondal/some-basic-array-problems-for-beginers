@@ -1,3 +1,4 @@
+//scan and print in array
 #include <stdio.h>
 int main(){
     int n;
