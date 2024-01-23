@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int n;
-    printf("enter the elment number that coppied from array1 to array2\n");
+    printf("enter the elment number that copied from array1 to array2\n");
     scanf("%d",&n);
     int a[100],b[100];
 
